@@ -33,3 +33,9 @@ Slower day today... I kept on running into some pretty serious dead ends.
 Having a really hard time figuring out how I'm supposed to incorporate knockout.js into this project. I have a suspicion that I'll be reading up on a fair share of tutorials online.
 
 **Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
+
+### Day 4: January 6, 2016 - Udacity Final Project
+
+Calling it a day early. Still having some trouble with knockout.js so I decided to make the app look nicer. Will try and get in some more coding if I can make within the day.
+
+**Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
