@@ -39,3 +39,13 @@ Having a really hard time figuring out how I'm supposed to incorporate knockout.
 Calling it a day early. Still having some trouble with knockout.js so I decided to make the app look nicer. Will try and get in some more coding if I can make within the day.
 
 **Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
+
+### Day 5: January 8, 2016 - Udacity Final Project
+
+I'm ashamed... I had all of Saturday to do some coding, and I flubbed it - hard. Hopped on the horse back in force today though. I coded for 3+ solid hours. Hopefully that makes up for it.
+
+ I began creating the UI for the map. It's not just an input bar in the top left anymore! I also finally implemented some Knockout into this project. I used the framework's templating features to update the DOM with the names of every station.
+
+I'm getting pretty close to the end of this project. I have a few more things I want to finish up, but in all honesty, I don't think it will all take me that much longer.
+
+**Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
