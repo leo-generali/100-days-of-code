@@ -49,3 +49,11 @@ I'm ashamed... I had all of Saturday to do some coding, and I flubbed it - hard.
 I'm getting pretty close to the end of this project. I have a few more things I want to finish up, but in all honesty, I don't think it will all take me that much longer.
 
 **Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
+
+### Day 6: January 9, 2016 - Udacity Final Project
+
+After yesterday's steamroll of a day, I would be lying if I said I wasn't looking forward to crushing this array filter...
+
+Hasn't happened yet, but I think I'm getting close. I read up on a gazillion tutorials and learned a lot more about using Knockout in general. I'm going to turn to the forums and see what I can learn.
+
+**Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
