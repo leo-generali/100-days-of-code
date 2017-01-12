@@ -57,3 +57,23 @@ After yesterday's steamroll of a day, I would be lying if I said I wasn't lookin
 Hasn't happened yet, but I think I'm getting close. I read up on a gazillion tutorials and learned a lot more about using Knockout in general. I'm going to turn to the forums and see what I can learn.
 
 **Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
+
+### Day 7: January 10, 2016 - Udacity Final Project
+
+Another slow day for the project... I tried out a bunch of different techniques, but nothing really worked.
+
+**Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
+
+### Day 8: January 11, 2016 - Udacity Final Project
+
+Huzzah! Big shout out to Karol over at Udacity for his help with this one. I posted a question up on the forums and he was able to point me in the right direction. You can check out our conversation [here](https://discussions.udacity.com/t/looking-for-help-filtering-through-array/208860/5?u=leo.generali).
+
+I solved my problem of filtering the array by adding a second, empty observable array that is updated based on the users input. When the user types in the name of a station, every metro stop with the characters being searched for get added to the filtered array. This array is reflected in the DOM which continually gets updated.
+
+Yes, this does mean that some stations will come up if you type in "ASFD", but as a whole, I'm going to treat this positively. The search system is loosey goosey enough that misspellings are sometimes still represented. I think that's good!
+
+My next plan of action is to add a function that opens a station's infoWindow when it is clicked in list view.  
+
+**Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
+
+
