@@ -76,4 +76,47 @@ My next plan of action is to add a function that opens a station's infoWindow wh
 
 **Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
 
+### Day 9: January 12, 2016 - Hugo
 
+Got sucked into editing my personal site with Hugo. Super fast static site generator, but the docs are pretty bad. Thankfully there's an active forum so I can troll around and find some direction.
+
+**Link to Work:** [Personal Site](https://github.com/leo-generali/leo-generali.github.io)
+
+### Day 10: January 13, 2016 - Hugo
+
+Redid my personal site using Hugo. Still working on small problems but I like where I'm going with it.
+
+**Link to Work:** [Personal Site](https://github.com/leo-generali/leo-generali.github.io)
+
+### Day 11: January 15, 2016 - Hugo
+
+Oops! I somehow forgot to do anything on Saturday... Hopefully that doesn't become a trend. More Hugo/Personal site work today.
+
+**Link to Work:** [Personal Site](https://github.com/leo-generali/leo-generali.github.io)
+
+### Day 12: January 16, 2016 - Hugo
+
+More Hugo and personal site stuff. Having some big problems updating a singular page.
+
+**Link to Work:** [Personal Site](https://github.com/leo-generali/leo-generali.github.io)
+
+### Day 13: January 17, 2016 - Hugo
+
+Finally got it looking and working well! Swag.
+
+**Link to Work:** [Personal Site](https://github.com/leo-generali/leo-generali.github.io)
+
+### Day 14: January 18, 2016 - Metro Map
+
+Spent a lot of time working on the map today. My click list view finally works.
+
+**Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
+
+### Day 15: January 19, 2016 - Metro Map
+
+Tons of work spent on the map today. Among the things I did:
+
+ - Only one info window can be open at a time. Opening a new infowindow closes all other open ones. 
+ - Clicking on the marker/list view that is currently open will close that info window
+
+**Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
