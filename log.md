@@ -118,5 +118,6 @@ Tons of work spent on the map today. Among the things I did:
 
  - Only one info window can be open at a time. Opening a new infowindow closes all other open ones. 
  - Clicking on the marker/list view that is currently open will close that info window
+ - Styling changes to the info windows. They are now flexboxes, which means the metro stations listed are much pretty than long bars.
 
 **Link to Work:** [Metro Map](https://github.com/leo-generali/metro-map/)
