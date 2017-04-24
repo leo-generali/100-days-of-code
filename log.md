@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 2, 2016 - Refactoring Old JS
+### Day 1: April 23, 2017 - College Checklist
 
 Starting back from the begining on this. I got bad about tweeting, and especially logging my stuff. I was coding during that time - just not doing the whole social media thing.
 
