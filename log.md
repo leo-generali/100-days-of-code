@@ -10,3 +10,10 @@ That being said, I spent today working on my college visit tracking application.
 
 **Link to Work:** [College Checklist](https://github.com/leo-generali/college-checklist)
 
+### Day 1: April 24, 2017 - College Checklist
+
+More time spent with my college application - this time working with Flexbox to get the cost of the school displayed. Still not one hundred percent sure I love the card format for the price but it'll do for now.
+
+![Day 2 Image](img/day2.gif "New price styling")
+
+**Link to Work:** [College Checklist](https://github.com/leo-generali/college-checklist)
